@@ -1,0 +1,6 @@
+alias ls='ls -la --color=always'
+alias 252='ssh root@192.168.5.252 -p 2270'
+alias c='clear'
+alias pro='cd /home/shak/project'
+alias 22='sudo mount -t cifs -o user=hossein -o vers=2.0 -o sec=ntlmv2 "//192.168.1.22/FileSharing Part" /home/shak/fileSharing'
+
